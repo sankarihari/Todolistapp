@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.about {
+
+  margin-right: 20px;
+  width: 40em;
+  height: 30em;
+  margin-top: 60px;
+
+}
+
+.formlog {
+  margin-top: 10px;
+  border: 1px;
+  background-color: lightpink;
+}
+.form{
+  margin-left: 55em;
+  margin-top:22px;
+  
+}
+.index{
+  background-image: url(images/homeimg.jpg);
+  background-size: cover;
+  background-position-x: right;
+}
+
+#head {
+  margin-top: 50px;
+}
+
+.logbtn {
+  background-color: indianred;
+  width: 100px;
+  border: indianred;
+  height: 2em;
+  margin-left: 80px;
+
+}
+
+.homepage {
+  background-image: url(images/img.jpg);
+  background-size: cover;
+  background-position-x: right;
+
+}
+
+.card {
+
+  height: 16rem;
+  text-align: center;
+  float: left;
+  margin-top: 260px;
+  margin-left: 100px;
+
+}
+
+.card-title {
+  padding-top: 30px;
+}
+
+.listpage {
+  background-color: indianred;
+
+}
+
+#todo-list {
+  font-size: medium;
+  color: #f2f2f2;
+
+}
+
+
+.btn-primary {
+  background: silver;
+  color: black;
+  border: solid;
+}
